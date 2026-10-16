@@ -1,0 +1,8 @@
+    demo  dist_to_median  dist_to_straight
+0  L5_01          0.1200            0.0821
+1  L5_02          0.1100            0.0975
+2  L6_01          0.1962            0.2369
+3  L6_02          0.2187            0.2509
+held-out mean  | median prior: 0.1612   straight: 0.1668
+leave-one-out  | median prior: 0.1303   straight: 0.1451
+(units: fraction of start-to-goal distance; lower = closer to the human demo)

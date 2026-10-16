@@ -1,0 +1,17 @@
+{
+ "video": "L2_01.mp4",
+ "layout": "L2",
+ "fps": 29.357569396219905,
+ "n_frames": 225,
+ "obj_detect_rate": 0.951,
+ "longest_gap_s": 0.375,
+ "grasp_idx": 21,
+ "release_idx": 139,
+ "transit_s": 4.019,
+ "rest_height_est_m": -0.0131,
+ "max_lift_m": 0.0919,
+ "start_to_end_m": 0.3314,
+ "end_to_plate_marker_m": 0.0367,
+ "warnings": [],
+ "ok": true
+}

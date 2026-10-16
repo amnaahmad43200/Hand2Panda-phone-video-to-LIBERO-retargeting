@@ -1,0 +1,19 @@
+{
+ "video": "L6_02.mp4",
+ "layout": "L6",
+ "fps": 29.470402095673037,
+ "n_frames": 226,
+ "obj_detect_rate": 0.969,
+ "longest_gap_s": 0.238,
+ "grasp_idx": 68,
+ "release_idx": 199,
+ "transit_s": 4.445,
+ "rest_height_est_m": 0.0349,
+ "max_lift_m": 0.0963,
+ "start_to_end_m": 0.239,
+ "end_to_plate_marker_m": 0.0659,
+ "warnings": [
+  "object ended >6 cm from plate marker: check marker placement / that it was placed on the plate"
+ ],
+ "ok": false
+}

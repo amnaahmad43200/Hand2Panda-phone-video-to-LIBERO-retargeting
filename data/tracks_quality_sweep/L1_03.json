@@ -1,0 +1,17 @@
+{
+ "video": "L1_03.mp4",
+ "layout": "L1",
+ "fps": 29.506798473945267,
+ "n_frames": 256,
+ "obj_detect_rate": 0.988,
+ "longest_gap_s": 0.102,
+ "grasp_idx": 65,
+ "release_idx": 224,
+ "transit_s": 5.389,
+ "rest_height_est_m": 0.0004,
+ "max_lift_m": 0.0821,
+ "start_to_end_m": 0.251,
+ "end_to_plate_marker_m": 0.0506,
+ "warnings": [],
+ "ok": true
+}

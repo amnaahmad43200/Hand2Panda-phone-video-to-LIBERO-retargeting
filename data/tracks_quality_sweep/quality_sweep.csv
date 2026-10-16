@@ -1,0 +1,21 @@
+video,frames,corner_0_frames,corner_1_frames,corner_2_frames,corner_3_frames,frames_all_4_corners,object_detection_rate,target_detection_rate,transit_s,lift_cm,start_to_end_cm,target_error_cm,warnings,qc_ok,status
+L1_01.mp4,286,156,187,236,286,115,1.0,0.629,7.032,9.21,19.09,9.8,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate,False,QC_WARNING
+L1_02.mp4,262,33,227,252,262,23,1.0,0.63,4.784,6.26,26.21,5.71,,True,PASS
+L1_03.mp4,256,157,167,254,256,144,0.988,0.582,5.389,8.21,25.1,5.06,,True,PASS
+L1_04.mp4,211,117,116,211,211,100,1.0,0.578,4.492,4.94,19.81,7.36,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate,False,QC_WARNING
+L2_01.mp4,225,220,162,225,225,162,0.951,0.564,4.019,9.19,33.14,3.67,,True,PASS
+L2_02.mp4,241,106,65,240,241,58,0.988,0.523,5.553,12.13,36.91,3.52,,True,PASS
+L2_03.mp4,178,178,133,178,178,133,0.91,0.5,3.394,10.01,35.3,4.35,,True,PASS
+L2_04.mp4,260,260,194,260,260,194,1.0,0.588,6.488,14.89,39.25,2.08,,True,PASS
+L3_01.mp4,200,200,197,199,200,197,0.965,0.545,4.501,4.98,32.53,5.71,,True,PASS
+L3_02.mp4,145,138,118,145,145,118,0.966,0.483,1.726,3.76,33.75,3.12,,True,PASS
+L3_03.mp4,144,144,124,144,144,124,1.0,0.472,2.446,5.56,27.58,5.83,,True,PASS
+L3_04.mp4,190,190,144,190,190,144,0.989,0.563,2.669,12.86,33.13,2.86,,True,PASS
+L4_01.mp4,231,158,54,231,231,48,0.978,0.55,6.178,4.79,40.98,8.31,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate,False,QC_WARNING
+L4_02.mp4,268,175,163,268,268,150,0.993,0.384,6.491,9.12,38.12,7.69,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate,False,QC_WARNING
+L4_03.mp4,208,126,208,208,197,126,0.986,0.433,5.006,10.49,36.36,5.93,,True,PASS
+L4_04.mp4,191,128,191,191,184,124,0.974,0.424,4.093,14.34,37.24,5.84,,True,PASS
+L5_01.mp4,184,145,158,184,184,127,0.962,0.625,3.74,20.12,41.36,6.93,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate,False,QC_WARNING
+L5_02.mp4,157,157,155,157,157,155,0.975,0.554,3.502,13.07,39.74,3.2,,True,PASS
+L6_01.mp4,206,206,194,206,206,194,0.971,0.34,5.265,7.48,22.5,6.88,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate,False,QC_WARNING
+L6_02.mp4,226,226,193,226,226,193,0.969,0.491,4.445,9.63,23.9,6.59,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate,False,QC_WARNING

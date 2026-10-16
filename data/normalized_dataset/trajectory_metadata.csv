@@ -1,0 +1,21 @@
+video,split,endpoint_distance_cm,path_length_cm,original_qc_ok,target_error_cm,qc_warnings
+L1_01,train,17.74,30.49,False,9.8,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate
+L1_02,train,25.76,36.47,True,5.71,
+L1_03,train,25.36,39.74,True,5.06,
+L1_04,train,18.88,30.57,False,7.36,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate
+L2_01,train,33.11,39.85,True,3.67,
+L2_02,train,36.13,57.52,True,3.52,
+L2_03,train,32.91,46.54,True,4.35,
+L2_04,train,36.74,49.19,True,2.08,
+L3_01,train,30.81,47.15,True,5.71,
+L3_02,train,32.07,36.93,True,3.12,
+L3_03,train,28.97,35.82,True,5.83,
+L3_04,train,32.89,47.67,True,2.86,
+L4_01,train,41.5,62.31,False,8.31,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate
+L4_02,train,37.78,49.21,False,7.69,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate
+L4_03,train,36.19,59.75,True,5.93,
+L4_04,train,36.37,46.19,True,5.84,
+L5_01,test,39.89,46.0,False,6.93,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate
+L5_02,test,39.44,44.6,True,3.2,
+L6_01,test,22.56,42.32,False,6.88,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate
+L6_02,test,24.1,41.47,False,6.59,object ended >6 cm from plate marker: check marker placement / that it was placed on the plate

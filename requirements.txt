@@ -1,0 +1,10 @@
+# Notebook 01 (video -> motion prior). Colab already has most of these.
+opencv-contrib-python-headless
+numpy
+scipy
+pandas
+matplotlib
+
+# Notebook 02 (LIBERO) installs its own stack in the first cell:
+#   LeRobot v0.6.1 with the [libero] extra (robosuite 1.4.0, hf-libero 0.1.4, MuJoCo 3.8.1)
+imageio

@@ -1,0 +1,16 @@
+lateral_scale,init_state,held,success,max_lat_cm
+5,0,True,True,2.63
+5,1,True,True,2.83
+5,2,True,True,3.79
+5,3,True,True,2.51
+5,4,True,True,2.68
+10,0,True,True,5.26
+10,1,True,True,5.65
+10,2,True,True,7.58
+10,3,True,True,5.02
+10,4,True,True,5.36
+20,0,True,True,10.53
+20,1,True,True,11.31
+20,2,True,True,15.16
+20,3,True,True,10.04
+20,4,True,True,10.72
