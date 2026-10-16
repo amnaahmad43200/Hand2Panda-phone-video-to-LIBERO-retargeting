@@ -14,7 +14,7 @@ Phone videos of my own hand moving an object on a table → metric 2D trajectori
 - **All 110 simulated runs succeeded** (22 carry paths × 5 initial states, official LIBERO success check). That includes the 4 held-out demos.
 - **Honest limitation:** this task is too forgiving to show that human paths are *better*. Success is 100% for every method, even when I exaggerate the sideways deviation 20× (see Results). What I can show is that the human data is executable and that the prior captures only a little shared structure.
 
-What is **not** in this repo: no policy was trained. I did not fine-tune a VLA or build a world model. I had no GPU in Colab and 20 videos contain no robot actions, so I chose a smaller question and answered it carefully.
+
 
 ## How it works
 
