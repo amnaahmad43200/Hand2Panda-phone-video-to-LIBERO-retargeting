@@ -85,11 +85,11 @@ The median is only slightly closer than a straight line, and it is closer for th
 - Only 2D path shape is learned. Everything else is hand-coded.
 - 7/20 videos have endpoint QC warnings; target-marker detection is only 34–63% of frames; camera height is a measured estimate.
 - Human travel (18–41 cm) is rescaled to the simulator's 11.7 cm.
-- The task cannot discriminate between path shapes, so no claim is made that human paths improve performance.
+- The task cannot discriminate between path shapes, so i made no claim is made that human paths improve performance.
 
 ## Run it
 
-Colab (CPU is enough; the evaluation takes about 20 minutes without camera rendering).
+
 
 1. Put the 20 videos named `L1_01 … L4_04, L5_01, L5_02, L6_01, L6_02` in a Drive folder and set the paths in the first cell of `notebooks/01_video_to_motion_prior.ipynb`. Run it top to bottom. It writes trajectories, QC reports, the normalised paths and `motion_prior.npz` to `clean_pipeline_outputs/`. The outputs from my run are in `data/`.
 2. Run `notebooks/02_libero_retargeting_eval.ipynb` top to bottom. The first cell installs LeRobot v0.6.1 with LIBERO. It reads the prior from `clean_pipeline_outputs/normalized_dataset/`.
