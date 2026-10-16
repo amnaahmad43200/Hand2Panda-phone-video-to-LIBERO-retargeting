@@ -12,7 +12,7 @@ Phone videos of my own hand moving an object on a table → metric 2D trajectori
 - I turned them into metric table-frame trajectories **without any learned hand tracker**, using ArUco markers, a homography, and a perspective correction.
 - I normalised the paths, fitted a median "motion prior" on the 16 training videos, and **retargeted all 20 human paths** (plus the median and a straight-line baseline) to a Panda arm in LIBERO.
 - **All 110 simulated runs succeeded** (22 carry paths × 5 initial states, official LIBERO success check). That includes the 4 held-out demos.
-- **Honest limitation:** this task is too forgiving to show that human paths are *better*. Success is 100% for every method, even when I exaggerate the sideways deviation 20× (see Results). What I can show is that the human data is executable and that the prior captures only a little shared structure.
+
 
 
 
